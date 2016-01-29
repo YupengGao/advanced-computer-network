@@ -1,4 +1,4 @@
-/advanced computer network
+Advanced computer network
 Design and implement a(socket programming) chat session application which enable multiple users chatting at the same time (threads) and design a user friendly interface for the chat program(Java Gui programming). 
 The project apply a centralized structure. The server is the center for every client.
 the server end create each client a thread to handle each client. so each thread is listening for the client. if the client send a message. Server get this message by according thread and broadcast the message to every client.
